@@ -1,5 +1,5 @@
 # jstyle_APA
-jstyle sheet, APA6 style for LibreOffice with JabRef
+jstyle sheet, APA6 citation style for LibreOffice with JabRef.
 This code works in conjunction with the existing programs JabRef and LibreOffice.
 
 To use, connect JabRef to LibreOffice. When connected, click "Select Style" in the LibreOffice citation menu on the left of the
